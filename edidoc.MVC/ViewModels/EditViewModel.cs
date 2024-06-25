@@ -1,4 +1,4 @@
-namespace edidoc.Mvc;
+namespace edidoc.MVC;
 
 public class EditViewModel {
     public int Id { get; set; }
